@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Tortilla
+  - Projectile
+  - Enemy
+  - HealthPickup
+  - PowerupPickup
+  - Exitbutton
+  - Startbutton
+  - Exitmenubutton
+  - Resumebutton
+  - restartButton
+  - Restartbutton
+  - Highscores
+  - Damage
+  - Killbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player collision
+  - tortilla collision
+  - projectile collision
+  - Enemy collision
+  - Pickup Collider
+  - Ground
+  - Collision damage
+  - Bossplatform
+  - Boss
+  - Enemies walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
