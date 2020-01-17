@@ -1,2 +1,2 @@
-# Un amigo - 2D platforme game
+# Un amigo - 2D platformer game
 
